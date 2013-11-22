@@ -31,6 +31,8 @@
     [self addTapGesture];
     [_tableView setDataSource:self];
     [_tableView setDelegate:self];
+    
+    NSLog(@"%@ \n%@", _tableView, _tableView.subviews);
 }
 
 - (void)didReceiveMemoryWarning

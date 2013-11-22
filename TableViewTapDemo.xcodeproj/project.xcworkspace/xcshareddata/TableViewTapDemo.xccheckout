@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D831B2E-B745-42AF-877D-FC42579749FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewTapDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9F3C144C-935A-4FC6-990B-F7336B93CA8F</key>
+		<string>ssh://github.com/Xummer/TableViewTapDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewTapDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9F3C144C-935A-4FC6-990B-F7336B93CA8F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Xummer/TableViewTapDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9F3C144C-935A-4FC6-990B-F7336B93CA8F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F3C144C-935A-4FC6-990B-F7336B93CA8F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewTapDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
